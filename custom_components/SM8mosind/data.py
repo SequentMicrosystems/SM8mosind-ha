@@ -1,3 +1,6 @@
+FULL_NAME = "Eight MOSFETS"
+LINK = "https://sequentmicrosystems.com/products/eight-mosfets-8-layer-stackable-card-for-raspberry-pi"
+
 import lib8mosind
 API = lib8mosind
 DOMAIN = "SM8mosind"
